@@ -1,0 +1,151 @@
+<PAMDataset>
+  <Metadata/>
+  <Metadata domain="ESRI">
+    <MDI key="PyramidResamplingType">NEAREST</MDI>
+  </Metadata>
+  <PAMRasterBand band="1">
+    <Histograms>
+      <HistItem>
+        <HistMin>-0.5</HistMin>
+        <HistMax>255.5</HistMax>
+        <BucketCount>256</BucketCount>
+        <IncludeOutOfRange>1</IncludeOutOfRange>
+        <Approximate>0</Approximate>
+        <HistCounts>0|109780|454115|583784|102370|10461|5145|225937|66145|57900|250523|731194|55302|9466|1826|1833729|61541|61783|9600|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0</HistCounts>
+      </HistItem>
+    </Histograms>
+    <GDALRasterAttributeTable>
+      <FieldDefn index="0">
+        <Name>Rowid</Name>
+        <Type>0</Type>
+        <Usage>0</Usage>
+      </FieldDefn>
+      <FieldDefn index="1">
+        <Name>VALUE</Name>
+        <Type>0</Type>
+        <Usage>0</Usage>
+      </FieldDefn>
+      <FieldDefn index="2">
+        <Name>COUNT</Name>
+        <Type>0</Type>
+        <Usage>0</Usage>
+      </FieldDefn>
+      <FieldDefn index="3">
+        <Name>SDDCHITIET</Name>
+        <Type>2</Type>
+        <Usage>0</Usage>
+      </FieldDefn>
+      <Row index="0">
+        <F>0</F>
+        <F>1</F>
+        <F>109780</F>
+        <F>Ð?t ? dô th?</F>
+      </Row>
+      <Row index="1">
+        <F>1</F>
+        <F>2</F>
+        <F>454115</F>
+        <F>Ð?t m?t nu?c</F>
+      </Row>
+      <Row index="2">
+        <F>2</F>
+        <F>3</F>
+        <F>583784</F>
+        <F>Ð?t lâm nghi?p</F>
+      </Row>
+      <Row index="3">
+        <F>3</F>
+        <F>4</F>
+        <F>102370</F>
+        <F>Ð?t chua s? d?ng</F>
+      </Row>
+      <Row index="4">
+        <F>4</F>
+        <F>5</F>
+        <F>10461</F>
+        <F>Ð?t cây xanh cách ly</F>
+      </Row>
+      <Row index="5">
+        <F>5</F>
+        <F>6</F>
+        <F>5145</F>
+        <F>Ð?t y t?</F>
+      </Row>
+      <Row index="6">
+        <F>6</F>
+        <F>7</F>
+        <F>225937</F>
+        <F>Ð?t công nghi?p</F>
+      </Row>
+      <Row index="7">
+        <F>7</F>
+        <F>8</F>
+        <F>66145</F>
+        <F>Ð?t tru?ng h?c</F>
+      </Row>
+      <Row index="8">
+        <F>8</F>
+        <F>9</F>
+        <F>57900</F>
+        <F>Ð?t khoáng s?n, VLXD</F>
+      </Row>
+      <Row index="9">
+        <F>9</F>
+        <F>10</F>
+        <F>250523</F>
+        <F>Ðu?ng giao thông</F>
+      </Row>
+      <Row index="10">
+        <F>10</F>
+        <F>11</F>
+        <F>731194</F>
+        <F>Ð?t làng xóm</F>
+      </Row>
+      <Row index="11">
+        <F>11</F>
+        <F>12</F>
+        <F>55302</F>
+        <F>Ð?t trung tâm công c?ng</F>
+      </Row>
+      <Row index="12">
+        <F>12</F>
+        <F>13</F>
+        <F>9466</F>
+        <F>Ð?t qu?c phòng an ninh</F>
+      </Row>
+      <Row index="13">
+        <F>13</F>
+        <F>14</F>
+        <F>1826</F>
+        <F>Ð?t tr?ng cây lâu nam</F>
+      </Row>
+      <Row index="14">
+        <F>14</F>
+        <F>15</F>
+        <F>1833729</F>
+        <F>Ð?t tr?ng lúa</F>
+      </Row>
+      <Row index="15">
+        <F>15</F>
+        <F>16</F>
+        <F>61541</F>
+        <F>Ð?t nghia d?a</F>
+      </Row>
+      <Row index="16">
+        <F>16</F>
+        <F>17</F>
+        <F>61783</F>
+        <F>Ð?t tr?ng màu</F>
+      </Row>
+      <Row index="17">
+        <F>17</F>
+        <F>18</F>
+        <F>9600</F>
+        <F>Ð?t tôn giáo, tín ngu?ng</F>
+      </Row>
+    </GDALRasterAttributeTable>
+    <Metadata>
+      <MDI key="RepresentationType">THEMATIC</MDI>
+    </Metadata>
+  </PAMRasterBand>
+</PAMDataset>
